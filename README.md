@@ -1,0 +1,2 @@
+# Bankomat
+python darslari uchun 
